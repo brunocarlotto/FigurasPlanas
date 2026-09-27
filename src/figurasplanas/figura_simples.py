@@ -1,6 +1,11 @@
 from math import pi
 from .figuraplana import FiguraPlana
 
+---
+Esse é o módulo que implementa figuras simples a partir de dimensões caracterísiticas. 
+---
+
+
 class Retangulo(FiguraPlana):
     """
     Representa um retângulo de base b altura h.
