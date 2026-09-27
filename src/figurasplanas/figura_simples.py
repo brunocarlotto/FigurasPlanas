@@ -1,9 +1,11 @@
 from math import pi
 from .figuraplana import FiguraPlana
 
----
-Esse é o módulo que implementa figuras simples a partir de dimensões caracterísiticas. 
----
+
+"""
+Esse é o módulo que implementa figuras simples a partir de dimensões características.
+""" 
+
 
 
 class Retangulo(FiguraPlana):
